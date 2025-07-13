@@ -1,0 +1,4 @@
+name: simple
+input_shape: [3, 32, 12]
+num_classes: 6
+weights_path: "./output/HAR/HAR.pth"

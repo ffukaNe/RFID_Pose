@@ -1,0 +1,19 @@
+dataset:
+  rfid_dir: "./data/raw_rfid"
+  kinect_dir: "./data/kinect"
+tags:
+  0: "Pelvis"
+  1: "Neck"
+  2: "L_Hip"
+  3: "L_Knee"
+  4: "R_Hip"
+  5: "R_Knee"
+  6: "L_Shoulder"
+  7: "L_Elbow"
+  8: "L_Wrist"
+  9: "R_Shoulder"
+  10: "R_Elbow"
+  11: "R_Wrist"
+
+  sample_rate: 110  # Hz
+  train_test_split: 0.8

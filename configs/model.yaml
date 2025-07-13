@@ -1,0 +1,8 @@
+model:
+  name: "kinematic_net"
+  input_shape: [3, 32, 12]
+  num_joints: 12
+  hidden_size: 256
+  initial_skeleton: "../data/skeleton_init.npy"
+  loss:
+    alpha: 0.1

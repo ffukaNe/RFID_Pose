@@ -1,0 +1,38 @@
+{
+  "still": {
+    "kinect": "./simulated_data\\still\\kinect_3d.csv",
+    "rfid": "./simulated_data\\still\\rfid_raw.csv",
+    "action": "still",
+    "visualization": "./simulated_data\\still_motion.png"
+  },
+  "squatting": {
+    "kinect": "./simulated_data\\squatting\\kinect_3d.csv",
+    "rfid": "./simulated_data\\squatting\\rfid_raw.csv",
+    "action": "squatting",
+    "visualization": "./simulated_data\\squatting_motion.png"
+  },
+  "walking": {
+    "kinect": "./simulated_data\\walking\\kinect_3d.csv",
+    "rfid": "./simulated_data\\walking\\rfid_raw.csv",
+    "action": "walking",
+    "visualization": "./simulated_data\\walking_motion.png"
+  },
+  "twisting": {
+    "kinect": "./simulated_data\\twisting\\kinect_3d.csv",
+    "rfid": "./simulated_data\\twisting\\rfid_raw.csv",
+    "action": "twisting",
+    "visualization": "./simulated_data\\twisting_motion.png"
+  },
+  "drinking": {
+    "kinect": "./simulated_data\\drinking\\kinect_3d.csv",
+    "rfid": "./simulated_data\\drinking\\rfid_raw.csv",
+    "action": "drinking",
+    "visualization": "./simulated_data\\drinking_motion.png"
+  },
+  "boxing": {
+    "kinect": "./simulated_data\\boxing\\kinect_3d.csv",
+    "rfid": "./simulated_data\\boxing\\rfid_raw.csv",
+    "action": "boxing",
+    "visualization": "./simulated_data\\boxing_motion.png"
+  }
+}
